@@ -94,7 +94,7 @@ export-data-from-PDF/
 ├── requirements.txt          # Python dependencies
 ├── .gitignore               # Git ignore rules
 ├── README.md                # This file
-└── my_casino_pdfs/          # Sample PDFs directory (ignored by git)
+└── my_pdfs/          # Sample PDFs directory (ignored by git)
 ```
 
 ## How It Works
