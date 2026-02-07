@@ -1,4 +1,4 @@
-# Casino PDF Expert Data Extractor
+# PDF Expert Data Extractor
 
 A RAG-optimized PDF extraction tool that extracts grounded Q&A pairs from technical documentation with citations to prevent hallucination.
 
